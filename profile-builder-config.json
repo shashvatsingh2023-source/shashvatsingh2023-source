@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "templateId": "cyberpunk-neon",
+  "themeId": "midnight-galaxy",
+  "metadata": {
+    "username": "Singh-Shashvat",
+    "source": "github",
+    "updatedAt": "2026-10-05T06:15:06.474Z",
+    "name": "Singh-Shashvat"
+  },
+  "sections": [
+    {
+      "id": "sec-hero",
+      "type": "hero",
+      "enabled": true,
+      "order": 1,
+      "title": "Header & Identity Hero",
+      "content": {
+        "name": "Singh-Shashvat",
+        "subtitle": "Full-Stack Developer & Software Engineer",
+        "bio": "Full-Stack Developer | Building modern web systems & developer tooling.",
+        "skills": [
+          "TypeScript",
+          "Python",
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker"
+        ]
+      }
+    },
+    {
+      "id": "sec-bento",
+      "type": "bento-telemetry",
+      "enabled": true,
+      "order": 2,
+      "title": "Engineering Telemetry",
+      "content": {
+        "stars": "5",
+        "followers": "1",
+        "reposCount": "18",
+        "prs": "5 PRs Merged",
+        "repos": "19 Public Repos",
+        "uptime": "Active & Shipping",
+        "status": "Open for Opportunities",
+        "highlight1Title": "Full-Stack Engineering",
+        "highlight1Desc": "Building resilient modern web systems, APIs, and scalable services.",
+        "highlight2Title": "Open-Source Tooling",
+        "highlight2Desc": "Developer experience, performance, and automated CI/CD workflows.",
+        "highlight3Title": "Cloud & System Design",
+        "highlight3Desc": "Distributed architectures, database optimization, and high availability."
+      }
+    },
+    {
+      "id": "sec-stack",
+      "type": "tech-stack",
+      "enabled": true,
+      "order": 3,
+      "title": "Categorized Tech Stack",
+      "content": {
+        "skills": [
+          "TypeScript",
+          "C",
+          "Python",
+          "HTML",
+          "Jupyter Notebook",
+          "C++"
+        ],
+        "selectedLanguages": [
+          "TypeScript",
+          "C",
+          "Python",
+          "HTML",
+          "Jupyter Notebook"
+        ]
+      }
+    },
+    {
+      "id": "sec-repos",
+      "type": "featured-repos",
+      "enabled": true,
+      "order": 4,
+      "title": "Featured Production Repositories",
+      "content": {
+        "repositories": [
+          {
+            "id": 1,
+            "name": "Contract-Clause-Risk-Analyser",
+            "description": "Full-stack engineering project",
+            "url": "https://github.com/Singh-Shashvat/Contract-Clause-Risk-Analyser",
+            "language": "Python",
+            "stars": 1,
+            "forks": 0,
+            "updatedAt": "2026-10-05T06:09:22.675Z",
+            "topics": []
+          },
+          {
+            "id": 2,
+            "name": "Gym-Tracker-Website",
+            "description": "Full-stack engineering project",
+            "url": "https://github.com/Singh-Shashvat/Gym-Tracker-Website",
+            "language": "TypeScript",
+            "stars": 1,
+            "forks": 0,
+            "updatedAt": "2026-10-05T06:09:22.675Z",
+            "topics": []
+          },
+          {
+            "id": 3,
+            "name": "Employee-Management-System",
+            "description": "Full-stack engineering project",
+            "url": "https://github.com/Singh-Shashvat/Employee-Management-System",
+            "language": "TypeScript",
+            "stars": 1,
+            "forks": 0,
+            "updatedAt": "2026-10-05T06:09:22.675Z",
+            "topics": []
+          },
+          {
+            "id": 4,
+            "name": "Basic-Auth-System",
+            "description": "Full-stack engineering project",
+            "url": "https://github.com/Singh-Shashvat/Basic-Auth-System",
+            "language": "TypeScript",
+            "stars": 1,
+            "forks": 0,
+            "updatedAt": "2026-10-05T06:09:22.675Z",
+            "topics": []
+          },
+          {
+            "id": 5,
+            "name": "krumos-pm-server",
+            "description": "Full-stack engineering project",
+            "url": "https://github.com/Singh-Shashvat/krumos-pm-server",
+            "language": "TypeScript",
+            "stars": 1,
+            "forks": 0,
+            "updatedAt": "2026-10-05T06:09:22.675Z",
+            "topics": []
+          },
+          {
+            "id": 6,
+            "name": "krumos-pm-client",
+            "description": "Full-stack engineering project",
+            "url": "https://github.com/Singh-Shashvat/krumos-pm-client",
+            "language": "TypeScript",
+            "stars": 1,
+            "forks": 0,
+            "updatedAt": "2026-10-05T06:09:22.675Z",
+            "topics": []
+          }
+        ],
+        "featuredRepoName": "Contract-Clause-Risk-Analyser"
+      }
+    },
+    {
+      "id": "sec-bug",
+      "type": "bug-autopsy",
+      "enabled": false,
+      "order": 5,
+      "title": "War Room (Bug Autopsy & Lessons)",
+      "content": {
+        "problem": "Distributed cache stampede caused connection pool starvation during spike.",
+        "cause": "Unsynchronized multi-tenant cache warming requests hitting origin PostgreSQL.",
+        "fix": "Deployed single-flight mutex deduplication with probabilistic early expiration.",
+        "lesson": "Always gate origin read queries behind singleflight mutex barriers."
+      }
+    },
+    {
+      "id": "sec-connect",
+      "type": "connect",
+      "enabled": true,
+      "order": 6,
+      "title": "Connect & Social Links",
+      "content": {
+        "email": "contact@example.com"
+      }
+    }
+  ]
+}
