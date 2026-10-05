@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 284" width="100%" height="284">
+  <!-- 3 Columns Grid (Up to 2 Rows) -->
+  <g transform="translate(0, 0)">
+    <g transform="translate(0, 0)">
+          <rect width="278" height="136" rx="14" fill="#0e1222" stroke="#00f0ff" stroke-width="1.2" stroke-opacity="0.4" />
+          <text x="20" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#ffe600">Contract-Clause-Risk-Ana</text>
+          <text x="20" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#818cf8">Full-stack engineering project</text>
+          <text x="20" y="104" font-family="'Courier New', Courier, monospace" font-size="11" fill="#818cf8">Python • ⭐ 1</text>
+        </g><g transform="translate(286, 0)">
+          <rect width="278" height="136" rx="14" fill="#0e1222" stroke="#00f0ff" stroke-width="1.2" stroke-opacity="0.4" />
+          <text x="20" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#ffe600">Gym-Tracker-Website</text>
+          <text x="20" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#818cf8">Full-stack engineering project</text>
+          <text x="20" y="104" font-family="'Courier New', Courier, monospace" font-size="11" fill="#818cf8">TypeScript • ⭐ 1</text>
+        </g><g transform="translate(572, 0)">
+          <rect width="278" height="136" rx="14" fill="#0e1222" stroke="#00f0ff" stroke-width="1.2" stroke-opacity="0.4" />
+          <text x="20" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#ffe600">Employee-Management-Syst</text>
+          <text x="20" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#818cf8">Full-stack engineering project</text>
+          <text x="20" y="104" font-family="'Courier New', Courier, monospace" font-size="11" fill="#818cf8">TypeScript • ⭐ 1</text>
+        </g><g transform="translate(0, 148)">
+          <rect width="278" height="136" rx="14" fill="#0e1222" stroke="#00f0ff" stroke-width="1.2" stroke-opacity="0.4" />
+          <text x="20" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#ffe600">Basic-Auth-System</text>
+          <text x="20" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#818cf8">Full-stack engineering project</text>
+          <text x="20" y="104" font-family="'Courier New', Courier, monospace" font-size="11" fill="#818cf8">TypeScript • ⭐ 1</text>
+        </g><g transform="translate(286, 148)">
+          <rect width="278" height="136" rx="14" fill="#0e1222" stroke="#00f0ff" stroke-width="1.2" stroke-opacity="0.4" />
+          <text x="20" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#ffe600">krumos-pm-server</text>
+          <text x="20" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#818cf8">Full-stack engineering project</text>
+          <text x="20" y="104" font-family="'Courier New', Courier, monospace" font-size="11" fill="#818cf8">TypeScript • ⭐ 1</text>
+        </g><g transform="translate(572, 148)">
+          <rect width="278" height="136" rx="14" fill="#0e1222" stroke="#00f0ff" stroke-width="1.2" stroke-opacity="0.4" />
+          <text x="20" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#ffe600">krumos-pm-client</text>
+          <text x="20" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#818cf8">Full-stack engineering project</text>
+          <text x="20" y="104" font-family="'Courier New', Courier, monospace" font-size="11" fill="#818cf8">TypeScript • ⭐ 1</text>
+        </g>
+  </g>
+</svg>

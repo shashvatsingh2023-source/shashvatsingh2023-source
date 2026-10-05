@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 268" width="100%" height="268">
+  <defs>
+    <linearGradient id="stackBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d1a" />
+      <stop offset="100%" stop-color="#06060c" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="848" height="266" rx="16" fill="url(#stackBg)" stroke="#00f0ff" stroke-width="1.5" stroke-opacity="0.4" />
+
+  <text x="24" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" fill="#ffffff">Language Stack</text>
+  <text x="826" y="38" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="600" fill="#00f0ff" text-anchor="end">Repository-weighted</text>
+
+  <!-- Progress Bars -->
+  <g transform="translate(24, 60)">
+    <g transform="translate(0, 0)">
+          <circle cx="5" cy="5" r="4" fill="#00f0ff" />
+          <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#ffffff">TypeScript</text>
+          <text x="802" y="9" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#00f0ff" text-anchor="end">76%</text>
+
+          <!-- Track & Fill -->
+          <rect x="0" y="16" width="802" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.08" />
+          <rect x="0" y="16" width="610" height="7" rx="3.5" fill="#00f0ff" />
+        </g><g transform="translate(0, 38)">
+          <circle cx="5" cy="5" r="4" fill="#ffe600" />
+          <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#ffffff">C</text>
+          <text x="802" y="9" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#ffe600" text-anchor="end">6%</text>
+
+          <!-- Track & Fill -->
+          <rect x="0" y="16" width="802" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.08" />
+          <rect x="0" y="16" width="48" height="7" rx="3.5" fill="#ffe600" />
+        </g><g transform="translate(0, 76)">
+          <circle cx="5" cy="5" r="4" fill="#3572A5" />
+          <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Python</text>
+          <text x="802" y="9" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#3572A5" text-anchor="end">6%</text>
+
+          <!-- Track & Fill -->
+          <rect x="0" y="16" width="802" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.08" />
+          <rect x="0" y="16" width="48" height="7" rx="3.5" fill="#3572A5" />
+        </g><g transform="translate(0, 114)">
+          <circle cx="5" cy="5" r="4" fill="#e34c26" />
+          <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#ffffff">HTML</text>
+          <text x="802" y="9" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#e34c26" text-anchor="end">6%</text>
+
+          <!-- Track & Fill -->
+          <rect x="0" y="16" width="802" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.08" />
+          <rect x="0" y="16" width="48" height="7" rx="3.5" fill="#e34c26" />
+        </g><g transform="translate(0, 152)">
+          <circle cx="5" cy="5" r="4" fill="#DA5B0B" />
+          <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" fill="#ffffff">Jupyter Notebook</text>
+          <text x="802" y="9" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#DA5B0B" text-anchor="end">6%</text>
+
+          <!-- Track & Fill -->
+          <rect x="0" y="16" width="802" height="7" rx="3.5" fill="#ffffff" fill-opacity="0.08" />
+          <rect x="0" y="16" width="48" height="7" rx="3.5" fill="#DA5B0B" />
+        </g>
+  </g>
+</svg>
